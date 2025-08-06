@@ -1,0 +1,4 @@
+dummy-ignore.txt
+.DS_store
+*.env
+*.csv
