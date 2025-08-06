@@ -2,3 +2,4 @@ dummy-ignore.txt
 .DS_store
 *.env
 *.csv
+another-dummy.md
